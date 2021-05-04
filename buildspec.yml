@@ -1,7 +1,7 @@
 version: 0.1
 env:
   secrets-manager:
-    JAVAVERSION: "PsrsecretJava:javaversion"
+    JAVAVERSION: "PsrsecretJava:JAVASecretkey"
 phases:
   build:
     commands:
